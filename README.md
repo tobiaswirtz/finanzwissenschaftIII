@@ -16,7 +16,7 @@ Die USA haben stets extrem hohe Staatsschulden gehabt, wenn sie in den Krieg zog
 
 ## 2. Konsequenzen
 
-## 3. Gibt es Pro-Argumente
+## 3. Gibt es Pro-Argumente?
 
 ## 4. Last und makroökonomische Tragweiten
 
