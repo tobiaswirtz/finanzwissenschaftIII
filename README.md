@@ -21,7 +21,7 @@ Die USA haben stets extrem hohe Staatsschulden gehabt, wenn sie in den Krieg zog
  1. Wie entwickelt sich langfristig die Schuldenstandsquote?
   
     Die Schuldenquote konvergiert nach dem Domar-Modell, da alpha/n auf einen festen Grenzwert konvergiert. Alpha ist die Kreditaufnahmequote eines Staates. n ist die konstante reale Wachstumsrate des Sozialprodukts.  
-![](./domarmodel.png)  
+   ![](./domarmodel.png)  
    
    Relation Zinsbelastung zu Sozialprodukt: (i x alpha)/n -> fester Grenzwert  
    
