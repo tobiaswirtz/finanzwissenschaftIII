@@ -26,7 +26,9 @@ Die USA haben stets extrem hohe Staatsschulden gehabt, wenn sie in den Krieg zog
    Relation Zinsbelastung zu Sozialprodukt: (i x alpha)/n -> fester Grenzwert  
    
    Relation Zinsverpflichtungen zu besteuerbarem Einkommen: (i x alpha)/(i x alpha + n) -> fest und kleiner als 100%  
+   
    Allerdings wird angenommen, dass n und i konstant und exogen sind, jedoch sind sie dies nicht . n beeinflusst i sowie auch anders herum.
+
  2. Kann durch eine permanente öffentliche Kreditaufnahme ein zusätzlicher Ausgabenspielraum gewonnen werden?
 
    ![](./budgetgleichung.png)  
