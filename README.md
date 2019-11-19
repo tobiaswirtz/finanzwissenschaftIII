@@ -44,11 +44,72 @@ Die USA haben stets extrem hohe Staatsschulden gehabt, wenn sie in den Krieg zog
 
    Ausgabenspielraum kann theoretisch langfristig erhalten werden, jedoch ist es praktisch unwahrscheinlich, da die Anreize der Politik nicht so sind, dass sie Risiken langfristiger Verschuldung akkurat in das Meinungsbild der Bevölkerung einfließen lassen. Im Fall von n < i: Schuldenstandsquote konvergiert nicht mehr!
    
-
-
 ## 3. Gibt es Pro-Argumente?
 
+Pro-Argumente existieren in der normativen Welt (Wie sollte die Welt sein?), nicht in der positiven Welt (Wie ist die Welt?).
+
+Es gibt drei Hauptargumente:
+
+ 1. Kreditfinanzierte Stabilisierungspolitik
+
+  - Nutzung des keynesianischen Multiplikators in Rezessionen, Finanzierung durch Schulden, da Steuereinnahmen niedriger sind
+  - 2. Komponente wird stets vergessen: Schuldenabbau durch Ausgabenreduktion in Boomjahren
+  - Stabilisierung bedingt die genaue Analyse des Konjunkturverlaufs, welcher noch nicht adäquat verstanden wird, da er abhängig von der Erwartungsbildung von Unternehmen und Haushalten ist
+
+ 2. Steuerglättung (Barro, 1979)
+
+  - Steuerglättung ist die Theorie, dass Steuersätze konstant sein sollten, um die Erwartungsbildung der Unternehmen und Haushalte nicht komplizierter zu machen
+  - Kosten, die nicht gedeckt werden können, werden durch Schulden finanziert und in Boomjahren getilgt
+
+ 3. Lastenverschiebung
+
+  - Investionen werden durch Kredite finanziert
+  - Die Lastenverschiebung wird oft wahltaktisch missbraucht, um dem Wähler weitere Konsumgüter zur Verfügung zu stellen
+
 ## 4. Last und makroökonomische Tragweiten
+
+Thesen zu Lasten der Staatsverschuldung:
+
+ 1. Zinsen sind Belastung der neuen Generationen
+
+  - Verteilungsproblem, da die Verschuldung auch in einer offenen Ökonomie aus dem privaten Kapitalstock schöpft. Zinsen kommen somit der neuen Generation auch oft zu Gute.
+  - Dies wird jedoch problematischer sobald es eine sehr hohe Auslandsverschuldung gibt
+
+ 2. Tilgung ist problematisch
+
+  - Refinanzierung ist für Staaten immer zur nächsten logischen Sekunde möglich
+  - Staat hat im Gegensatz zum Privathaushalt das Mittel der Besteuerung
+
+ 3. Jedes Land hat einen begrenzten Verschuldungsspielraum, falls überschritten ist es in Bankrottgefahr
+  
+  - Nein, da Steuermacht
+  - Inflationierungsmöglichkeit, falls eigene Währung
+
+ 4. Haushaltsdefizite verdrängen private Investitionen
+
+  - `S = I` der Bruttosozialproduktfunktion: Wenn der Staat den Konsum erhöht verhindert er die private Kapitalakkumulation in einer geschlossenen Wirtschaft
+
+ 5. Haushaltsdefizite reduzieren die Nettoexporte
+
+  - `EX - IM = S - I` in einer offenen Wirtschaft, `EX - IM = Nettokapitalexport`
+
+### 4.1. Neoklassisches Paradigma
+
+  - Investitionsquote ist negativ mit Schuldenstandsquote verbunden, weil Konsum gespartes Einkommen schluckt
+  - Neoklassisches Modell auf Folie 52
+  - Steuerfinanzierung auf lange Sicht besser als Schuldenfinanzierung, jedoch durch politische Kräfte nicht praktikabel
+
+### 4.2. Keynesianisches Pagadigma
+
+  - Anhang Angebotsökonomik:
+  
+  These: Geringe Unternehmenskosten haben größeren Konjunktureffekt als liquide Verbraucher oder erhöhte Staatsausgaben
+    * Geldpolitik: reine Inflationsvermeidung am Produktionspotenzial ausgerichtet
+    * Finanzpolitik: Senkung der Staatsquote, Verringerung d. Neuverschuldung, Verr. d. Unternehmensbesteuerung, Abschreibemöglichkeiten verbessern, Leistungs -und innovationsfreundliche Steuerregeln
+    * Arbeitsmarktpolitik: Zurückhaltende Lohnpolitik, Förderung v. Arbeitnehmermobilität, Förderung der Flexibilität v. Löhnen, Arbeitszeit und Beschäftigungsbedingungen
+    * Förderung von Existenzgründungen
+    * Deregulierung, Förderung von F&E
+    * Saysches Theorem, Lafferkurve
 
 ## 5. Intergenerationelle Wohlfahrtseffekte
 
