@@ -106,8 +106,10 @@ Thesen zu Lasten der Staatsverschuldung:
   These: Geringe Unternehmenskosten haben größeren Konjunktureffekt als liquide Verbraucher oder erhöhte Staatsausgaben
     
     * Geldpolitik: reine Inflationsvermeidung am Produktionspotenzial ausgerichtet
-    * Finanzpolitik: Senkung der Staatsquote, Verringerung d. Neuverschuldung, Verr. d. Unternehmensbesteuerung, Abschreibemöglichkeiten verbessern, Leistungs -und innovationsfreundliche Steuerregeln
-    * Arbeitsmarktpolitik: Zurückhaltende Lohnpolitik, Förderung v. Arbeitnehmermobilität, Förderung der Flexibilität v. Löhnen, Arbeitszeit und Beschäftigungsbedingungen
+    * Finanzpolitik: Senkung der Staatsquote, Verringerung d. Neuverschuldung, Verr. d. Unternehmensbesteuerung,  
+    Abschreibemöglichkeiten verbessern, Leistungs -und innovationsfreundliche Steuerregeln
+    * Arbeitsmarktpolitik: Zurückhaltende Lohnpolitik, Förderung v. Arbeitnehmermobilität, Förderung der 
+    Flexibilität v. Löhnen, Arbeitszeit und Beschäftigungsbedingungen
     * Förderung von Existenzgründungen
     * Deregulierung, Förderung von F&E
     * Saysches Theorem, Lafferkurve
