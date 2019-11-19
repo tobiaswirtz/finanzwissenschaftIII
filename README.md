@@ -70,26 +70,26 @@ Es gibt drei Hauptargumente:
 
 Thesen zu Lasten der Staatsverschuldung:
 
- 1. Zinsen sind Belastung der neuen Generationen
+ 1. Zinsen sind Belastung der neuen Generationen  
 
   - Verteilungsproblem, da die Verschuldung auch in einer offenen Ökonomie aus dem privaten Kapitalstock schöpft. Zinsen kommen somit der neuen Generation auch oft zu Gute.
   - Dies wird jedoch problematischer sobald es eine sehr hohe Auslandsverschuldung gibt
 
- 2. Tilgung ist problematisch
+ 2. Tilgung ist problematisch  
 
   - Refinanzierung ist für Staaten immer zur nächsten logischen Sekunde möglich
   - Staat hat im Gegensatz zum Privathaushalt das Mittel der Besteuerung
 
- 3. Jedes Land hat einen begrenzten Verschuldungsspielraum, falls überschritten ist es in Bankrottgefahr
+ 3. Jedes Land hat einen begrenzten Verschuldungsspielraum, falls überschritten ist es in Bankrottgefahr  
   
   - Nein, da Steuermacht
   - Inflationierungsmöglichkeit, falls eigene Währung
 
- 4. Haushaltsdefizite verdrängen private Investitionen
+ 4. Haushaltsdefizite verdrängen private Investitionen  
 
   - `S = I` der Bruttosozialproduktfunktion: Wenn der Staat den Konsum erhöht verhindert er die private Kapitalakkumulation in einer geschlossenen Wirtschaft
 
- 5. Haushaltsdefizite reduzieren die Nettoexporte
+ 5. Haushaltsdefizite reduzieren die Nettoexporte  
 
   - `EX - IM = S - I` in einer offenen Wirtschaft, `EX - IM = Nettokapitalexport`
 
