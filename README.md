@@ -20,27 +20,20 @@ Die USA haben stets extrem hohe Staatsschulden gehabt, wenn sie in den Krieg zog
 
  1. Wie entwickelt sich langfristig die Schuldenstandsquote?
   
-    Die Schuldenquote konvergiert nach dem Domar-Modell, da alpha/n auf einen festen Grenzwert konvergiert. Alpha ist die Kreditaufnahmequote eines Staates. n ist die konstante reale Wachstumsrate des Sozialprodukts.  
+   - Die Schuldenquote konvergiert nach dem Domar-Modell, da alpha/n auf einen festen Grenzwert konvergiert. Alpha ist die Kreditaufnahmequote eines Staates. n ist die konstante reale Wachstumsrate des Sozialprodukts.  
    ![](./domarmodel.png)  
- 
-   Relation Zinsbelastung zu Sozialprodukt: (i x alpha)/n -> fester Grenzwert  
-   
-   Relation Zinsverpflichtungen zu besteuerbarem Einkommen: (i x alpha)/(i x alpha + n) -> fest und kleiner als 100%  
-   
-   Allerdings wird angenommen, dass n und i konstant und exogen sind, jedoch sind sie dies nicht . n beeinflusst i sowie auch anders herum.
+   - Relation Zinsbelastung zu Sozialprodukt: (i x alpha)/n -> fester Grenzwert  
+   - Relation Zinsverpflichtungen zu besteuerbarem Einkommen: (i x alpha)/(i x alpha + n) -> fest und kleiner als 100
+   - Allerdings wird angenommen, dass n und i konstant und exogen sind, jedoch sind sie dies nicht . n beeinflusst i sowie auch anders herum.
 
  2. Kann durch eine permanente öffentliche Kreditaufnahme ein zusätzlicher Ausgabenspielraum gewonnen werden?
 
-   ![](./budgetgleichung.png)  
+   - ![](./budgetgleichung.png)  
 
-   Ausgabenspielraum definiert sich durch Finanzierungsvarianten. Es gibt drei Varianten: 
-   - Einsparung von Ausgaben 
-
-   Erweiter Ausgabenspielraum langfristig nur wenn das Sozialproduktswachstum (n) >> Verzinsung der Staatsschuld (i)
-   - Erhebung zusätzlicher Steuern  
-
-   Ausgabenspielraum kann langfristig erhalten werden.
-   - Aufnahme zusätzlicher Kredite  
+   - Ausgabenspielraum definiert sich durch Finanzierungsvarianten. Es gibt drei Varianten: 
+    * Einsparung von Ausgaben: Erweiter Ausgabenspielraum langfristig nur wenn das Sozialproduktswachstum (n) >> Verzinsung der Staatsschuld (i)
+    * Erhebung zusätzlicher Steuern: Ausgabenspielraum kann langfristig erhalten werden.
+    * Aufnahme zusätzlicher Kredite  
 
    Ausgabenspielraum kann theoretisch langfristig erhalten werden, jedoch ist es praktisch unwahrscheinlich, da die Anreize der Politik nicht so sind, dass sie Risiken langfristiger Verschuldung akkurat in das Meinungsbild der Bevölkerung einfließen lassen. Im Fall von n < i: Schuldenstandsquote konvergiert nicht mehr!
    
