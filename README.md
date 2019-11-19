@@ -31,6 +31,7 @@ Die USA haben stets extrem hohe Staatsschulden gehabt, wenn sie in den Krieg zog
    - ![](./budgetgleichung.png)  
 
    - Ausgabenspielraum definiert sich durch Finanzierungsvarianten. Es gibt drei Varianten: 
+    
     * Einsparung von Ausgaben: Erweiter Ausgabenspielraum langfristig nur wenn das Sozialproduktswachstum (n) >> Verzinsung der Staatsschuld (i)
     * Erhebung zusätzlicher Steuern: Ausgabenspielraum kann langfristig erhalten werden.
     * Aufnahme zusätzlicher Kredite  
