@@ -101,10 +101,9 @@ Thesen zu Lasten der Staatsverschuldung:
 
 ### 4.2. Keynesianisches Pagadigma
 
-  - Anhang Angebotsökonomik:
-  
+  - Anhang Angebotsökonomik:  
   These: Geringe Unternehmenskosten haben größeren Konjunktureffekt als liquide Verbraucher oder erhöhte Staatsausgaben
-    
+
     * Geldpolitik: reine Inflationsvermeidung am Produktionspotenzial ausgerichtet
     * Finanzpolitik: Senkung der Staatsquote, Verringerung d. Neuverschuldung, Verr. d. Unternehmensbesteuerung,  
     Abschreibemöglichkeiten verbessern, Leistungs -und innovationsfreundliche Steuerregeln
